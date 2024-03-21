@@ -29,4 +29,4 @@
 
 ## Apaixonado por tecnologia.
 
-![snake gif](https://github.com/LeonardoTomazCarlos/Platane/snk/blob/output/github-contribution-grid-snake.svg)
+
