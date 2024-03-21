@@ -1,7 +1,7 @@
 
 ### Olá sou o Leonardo Tomaz 👋
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-tomaz-carlos-a328851a9)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/inleonardo-tomaz-carlos-a328851a9)
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTomazCarlos&show_icons=true&theme=dracula)
 
