@@ -6,7 +6,8 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTomazCarlos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=05122A&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
