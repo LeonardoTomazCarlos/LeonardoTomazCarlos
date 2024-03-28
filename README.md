@@ -6,7 +6,8 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTomazCarlos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=999999&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=333333&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologias que eu uso no meu dia 
